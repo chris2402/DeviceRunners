@@ -1,4 +1,5 @@
-﻿namespace DeviceRunners.VisualRunners.Maui.Pages;
+﻿using Microsoft.Maui.ApplicationModel;
+namespace DeviceRunners.VisualRunners.Maui.Pages;
 
 partial class CreditsPage : ContentPage
 {
